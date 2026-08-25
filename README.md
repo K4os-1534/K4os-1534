@@ -64,7 +64,7 @@ mindset    →  break to understand  |  document everything
 
 <div align="center">
 
-![K4os GitHub Stats](https://github-readme-stats.vercel.app/api?username=K4os&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=ffffff&border_color=ff2d7844&hide_border=false)
+![K4os GitHub Stats](https://github-readme-stats.vercel.app/api?username=K4os-1534&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=ffffff&border_color=ff2d7844&hide_border=false)
 
 </div>
 
