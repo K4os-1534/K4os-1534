@@ -1,58 +1,37 @@
-<div align="center">
-
-![K4os Banner](./banner.svg)
-
-</div>
-
-<br>
-
 ```
-Red Teaming isn't about breaking things. It's about understanding them well enough to.
+The internet is the safest warzone you'll ever walk into — K4os
 ```
 
 <br>
 
----
+### Hey There! 👋
 
-### / whoami
+This is [K4os](https://portfolio-k4os.vercel.app), a Red Teamer based in Pakistan.
 
-I'm a cybersecurity student working my way through penetration testing, one box at a time. I compete in CTFs to sharpen what I learn, and I document everything worth documenting in my repositories.
+I love playing CTFs and breaking things to understand them.
 
-No filler. No fluff. Just the work.
+I always have this deep urge to always keep learning and keep improving.
 
----
+### Current Missions
 
-### / current_missions
-
-<br>
 
 **`CPTS — Certified Penetration Testing Specialist`** &nbsp;·&nbsp; HackTheBox Academy
 
 <img src="https://progress-bar.xyz/66?title=Progress&width=500&color=ff2d78&suffix=%25" alt="CPTS 66%"/>
 
-<br>
-
 **`Python`** &nbsp;·&nbsp; freeCodeCamp
 
 <img src="https://progress-bar.xyz/4?title=Progress&width=500&color=ff2d78&suffix=%25" alt="Python - Just started"/>
 
-<sub>Started recently. This one's the long game.</sub>
 
-<br>
-
----
-
-### / tools_&_interests
+### Interests
 
 ```bash
 focus      →  Red Teaming  |  CTF Competitions
-learning   →  CPTS (HTB)  |  Python  |  Offensive Security
-mindset    →  break to understand  |  document everything
+learning   →  CPTS (HTB)  |  Python 
 ```
 
----
-
-### / find_me
+### Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=ff2d78)](https://linkedin.com/in/k4os)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%230d0d0d.svg?style=for-the-badge&logo=hackthebox&logoColor=ff2d78)](https://app.hackthebox.com/profile/k4os)
@@ -60,7 +39,7 @@ mindset    →  break to understand  |  document everything
 
 ---
 
-### / stats
+### Stats
 
 <div align="center">
 
