@@ -1,3 +1,11 @@
+<div align="center">
+
+![K4os Banner](./banner.svg)
+
+</div>
+
+<br>
+
 ```
 The internet is the safest warzone you'll ever walk into — K4os
 ```
@@ -10,7 +18,7 @@ This is [K4os](https://portfolio-k4os.vercel.app), a Red Teamer based in Pakista
 
 I love playing CTFs and breaking things to understand them.
 
-I always have this deep urge to always keep learning and keep improving.
+I always have this deep urge to keep learning and keep improving.
 
 ### Current Missions
 
@@ -37,18 +45,9 @@ learning   →  CPTS (HTB)  |  Python
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%230d0d0d.svg?style=for-the-badge&logo=hackthebox&logoColor=ff2d78)](https://app.hackthebox.com/profile/k4os)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%230d0d0d.svg?style=for-the-badge&logo=tryhackme&logoColor=ff2d78)](https://tryhackme.com/p/k4os)
 
----
-
-### Stats
-
-<div align="center">
-
-![K4os GitHub Stats](https://github-readme-stats.vercel.app/api?username=K4os-1534&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=ff2d78&icon_color=ff2d78&text_color=ffffff&border_color=ff2d7844&hide_border=false)
-
-</div>
 
 <br>
 
 <div align="right">
-<sub><code>// more repos incoming</code></sub>
+<sub><code>// more projects incoming</code></sub>
 </div>
