@@ -7,7 +7,7 @@
 <br>
 
 ```
-Ethical hacking isn't about breaking things. It's about understanding them well enough to.
+Red Teaming isn't about breaking things. It's about understanding them well enough to.
 ```
 
 <br>
@@ -16,7 +16,7 @@ Ethical hacking isn't about breaking things. It's about understanding them well 
 
 ### / whoami
 
-I'm a cybersecurity student working my way through penetration testing — methodically, one box at a time. I compete in CTFs to sharpen what I learn, and I document everything worth documenting in my repositories.
+I'm a cybersecurity student working my way through penetration testing, one box at a time. I compete in CTFs to sharpen what I learn, and I document everything worth documenting in my repositories.
 
 No filler. No fluff. Just the work.
 
@@ -36,7 +36,7 @@ No filler. No fluff. Just the work.
 
 <img src="https://progress-bar.xyz/4?title=Progress&width=500&color=ff2d78&suffix=%25" alt="Python - Just started"/>
 
-<sub>Started recently — this one's the long game.</sub>
+<sub>Started recently. This one's the long game.</sub>
 
 <br>
 
@@ -45,7 +45,7 @@ No filler. No fluff. Just the work.
 ### / tools_&_interests
 
 ```bash
-focus      →  Penetration Testing  |  CTF Competitions
+focus      →  Red Teaming  |  CTF Competitions
 learning   →  CPTS (HTB)  |  Python  |  Offensive Security
 mindset    →  break to understand  |  document everything
 ```
