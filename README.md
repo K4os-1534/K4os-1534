@@ -12,13 +12,13 @@ The internet is the safest warzone you'll ever walk into — K4os
 
 <br>
 
-### Hey There! 👋
+Cybersecurity Student. I love breaking things.
 
-This is [K4os](https://portfolio-k4os.vercel.app), a Red Teamer based in Pakistan.
+CTFs are my playgrounds.
 
-I love playing CTFs and breaking things to understand them.
+I never stop learning.
 
-I always have this deep urge to keep learning and keep improving.
+<br>
 
 ### Current Missions
 
