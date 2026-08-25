@@ -20,7 +20,7 @@
   <text x="36" y="100" font-family="'JetBrains Mono', monospace" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="-1">K4os</text>
 
   <!-- Blinking cursor after name -->
-  <rect x="145" y="72" width="17" height="34" fill="#ff2d78" rx="1">
+  <rect x="145" y="70" width="17" height="34" fill="#ff2d78" rx="1">
     <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
   </rect>
 
